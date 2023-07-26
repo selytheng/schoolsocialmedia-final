@@ -1,0 +1,195 @@
+.Iphone13ProMax1{
+    width: 428px; 
+    height: 926px; 
+    position: relative; 
+    background: #DDDDDD; 
+    border-radius: 50px; 
+    overflow: hidden
+}
+.HeaderFooter{
+    width: 428px; 
+    height: 976px; 
+    position: absolute
+}
+.Rectangle1{
+    width: 428px; 
+    height: 100px; 
+    left: 0px; 
+    top: 876px; 
+    position: absolute; 
+    background: #2C5C9A
+}
+.Rectangle2{
+    width: 428px; 
+    height: 77px; 
+    position: absolute; 
+    background: #4A89BB;
+}
+.wifi{
+    width: 20px; 
+    height: 20px; 
+    left: 324px; 
+    top: 10px; 
+    position: absolute;
+}
+.cellular{
+    width: 20px; 
+    height: 20px; 
+    left: 351px; 
+    top: 10px; 
+    position: absolute;
+}
+.battery{
+    width: 20px; 
+    height: 20px; 
+    left: 378px; 
+    top: 10px; 
+    position: absolute;
+}
+.time{
+    left: 35px; 
+    top: 14px; 
+    position: absolute; 
+    color: white; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Email{
+    width: 308px; 
+    height: 67px; 
+    left: 60px; 
+    top: 305px; 
+    position: absolute;
+}
+.Rectangle3{
+    width: 308px; 
+    height: 55px; 
+    top: 12px; 
+    position: absolute; 
+    background: #DDDDDD; 
+    border: none
+}
+.emailinp{
+    width: 308px; 
+    height: 55px; 
+    top: 12px; 
+    position: absolute; 
+    background: #DDDDDD; 
+    border: 1px black solid
+}
+.Password{
+    width: 308px; 
+    height: 67px; 
+    left: 60px; 
+    top: 396px; 
+    position: absolute
+}
+.Rectangle4{
+    width: 308px; 
+    height: 55px; 
+    top: 12px; 
+    position: absolute; 
+    background: #DDDDDD; 
+    border: 1px black solid
+}
+.passwordinp{
+    width: 308px; 
+    height: 55px; 
+    top: 12px; 
+    position: absolute; 
+    background: #DDDDDD; 
+    border: 1px black solid
+}
+.LogIn{
+    width: 85px; 
+    height: 37px; 
+    left: 172px; 
+    top: 483px; 
+    position: absolute
+}
+.Rectangle5{
+    width: 85px; 
+    height: 37px; 
+    position: absolute; 
+    background: #4A89BB; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 25px; 
+    border: 1px #858585 solid
+}
+.loginbtn{
+    left: 20px; 
+    top: 9px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.platform{
+    width: 177px; 
+    height: 25px; 
+    left: 126px; 
+    top: 540px; 
+    position: absolute
+}
+.or{
+    top: 1px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.google{
+    width: 25px; 
+    height: 25px; 
+    left: 48px; 
+    position: absolute
+}
+.apple{
+    width: 25px; 
+    height: 25px; 
+    left: 152px; 
+    position: absolute
+}
+.facebook{
+    width: 25px; 
+    height: 25px; 
+    left: 100px; 
+    position: absolute
+}
+.DonTHaveAccountSignUp{
+    left: 107px; 
+    top: 585px; 
+    position: absolute
+}
+.dhaa{
+    color: black; 
+    font-size: 16px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.signup{
+    color: #001AFF; 
+    font-size: 16px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    text-decoration: underline; 
+    word-wrap: break-word
+}
+.SchoolSocialMediaInc{
+    left: 29px; 
+    top: 201px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
