@@ -1,0 +1,133 @@
+.HeaderFooter{
+    width: 428px; 
+    height: 964px; 
+    left: 0px; 
+    top: -38px; 
+    position: absolute
+}
+.hfrec1{
+    width: 428px; 
+    height: 100px; 
+    left: 0px; 
+    top: 864px; 
+    position: absolute; 
+    background: #2C5C9A
+}
+/* .hfrec2{
+    width: 428px; 
+    height: 77px; 
+    left: 0px; 
+    top: 38px; 
+    position: absolute; 
+    background: #DDE100
+} */
+.hfrec3{
+    width: 428px; 
+    height: 94px; 
+    left: 0px; 
+    top: 38px; 
+    position: absolute; 
+    background: #4A89BB
+}
+.hfrec4{
+    width: 428px; 
+    height: 77px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #B8D3DE
+}
+.network{
+    left: 324px; 
+    top: 52px; 
+    position: absolute
+}
+.time{
+    left: 35px; 
+    top: 52px; 
+    position: absolute; 
+    color: white; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.SchoolSocialMediaInc{
+    left: 30px; 
+    top: 91px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.addfri{
+    width: 25px; 
+    height: 25px; 
+    left: 376px; 
+    top: 91px; 
+    position: absolute
+}
+.dock{
+    width: 371px; 
+    height: 58px; 
+    left: 20px; 
+    top: 835px; 
+    position: absolute;
+    display: flex;
+    padding: 15px;
+    gap: 45px;
+    justify-content: center;
+}
+.icon{
+    display: grid;
+    justify-content: center;
+}
+.dockicon{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    margin: auto;
+}
+.docktext{
+    font-size: 15px;
+    color: #B8D3DE;
+}
+.press{
+    color: white;
+    fill: white;
+}
+
+
+
+.rct1{
+    left: 15px; 
+    top: 600px; 
+    position: absolute;
+}
+.rct2{
+    left: 61px; 
+    top: 700px; 
+    position: absolute;}
+.react{
+    width: 319px; 
+    height: 30px; 
+    display: flex
+}
+.border1{
+    display: flex;
+    border: 1px solid;
+    width: 120px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.reactionicon{
+    width: 20px;
+    display: flex;
+    justify-content: center;
+}
+.reactionlike{
+    margin: auto;
+}

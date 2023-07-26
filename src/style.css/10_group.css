@@ -1,0 +1,15 @@
+.network{
+    left: 324px;
+    top: 52px; 
+    position: absolute
+}
+.time{
+    left: 35px; 
+    top: 52px; 
+    position: absolute; 
+    color: white; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}

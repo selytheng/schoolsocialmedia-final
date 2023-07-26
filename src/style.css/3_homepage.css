@@ -1,0 +1,186 @@
+.HeaderFooter{
+    width: 430px; 
+    height: 965px; 
+    top: -40px; 
+    position: absolute
+}
+.hfrec1{
+    width: 430px; 
+    height: 100px; 
+    top: 865px; 
+    position: absolute; 
+    background: #2C5C9A
+}
+/* .hfrec2{
+    width: 428px; 
+    height: 77px; 
+    left: 0px; 
+    top: 38px; 
+    position: absolute; 
+    background: #DDE100
+} */
+.hfrec3{
+    width: 430px; 
+    height: 95px; 
+    top: 40px; 
+    position: absolute; 
+    background: #4A89BB
+}
+.hfrec4{
+    width: 430px; 
+    height: 80px; 
+    position: absolute; 
+    background: #B8D3DE
+}
+.network{
+    left: 325px; 
+    top: 55px; 
+    position: absolute
+}
+.time{
+    left: 35px; 
+    top: 55px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.SchoolSocialMediaInc{
+    left: 30px; 
+    top: 95px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.addfri{
+    width: 25px; 
+    height: 25px; 
+    left: 375px; 
+    top: 95px; 
+    position: absolute
+}
+.dock{
+    width: 370px; 
+    height: 60px; 
+    left: 20px; 
+    top: 835px; 
+    position: absolute;
+    display: flex;
+    padding: 15px;
+    gap: 45px;
+    justify-content: center;
+}
+.icon{
+    display: grid;
+    justify-content: center;
+}
+.dockicon{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    margin: auto;
+}
+.docktext{
+    font-size: 15px;
+    color: #B8D3DE;
+}
+.press{
+    color: white;
+    fill: white;
+}
+/* .homelogo{
+    width: 40px; 
+    height: 40px; 
+    left: 0px; 
+    top: 1px; 
+    position: absolute
+}
+.hometxt{
+    left: 0px; 
+    top: 41px; 
+    position: absolute; 
+    color: #B8D3DE; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+} */
+
+.rct1{
+    left: 60px; 
+    top: 485px; 
+    position: absolute;
+}
+.rct2{
+    left: 60px; 
+    top: 700px; 
+    position: absolute;}
+.react{
+    width: 320px; 
+    height: 30px; 
+    display: flex
+}
+.border1{
+    display: flex;
+    border: 1px solid;
+    width: 120px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.reactionicon{
+    width: 20px;
+    display: flex;
+    justify-content: center;
+}
+.reactionlike{
+    margin: auto;
+}
+
+
+.Iphone13ProMax3{
+    width: 430px; 
+    height: 925px; 
+    position: relative; 
+    background: #DDDDDD; 
+    border-radius: 50px; 
+    overflow: hidden
+}
+.createpost{
+    width: 430px; 
+    height: 40px; 
+    left: 0px; 
+    top: 95px; 
+    position: absolute
+}
+.CARrec{
+    width: 430px; 
+    height: 40px; 
+    position: absolute; 
+    background: #B8D3DE
+}
+.plus{
+    width: 25px; 
+    height: 25px; 
+    left: 120px; 
+    top: 7.5px; 
+    position: absolute
+}
+.CreateAPost{
+    left: 155px; 
+    top: 5px; 
+    position: 
+    absolute; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+
