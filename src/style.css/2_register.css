@@ -1,0 +1,182 @@
+/* CSS for the given HTML structure */
+.Iphone13ProMax2 {
+    width: 428px;
+    height: 926px;
+    position: relative;
+    background: #DDDDDD;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.User {
+    width: 120px;
+    height: 139px;
+    left: 154px;
+    top: 157px;
+    position: absolute;
+}
+
+.Ellipse17 {
+    width: 120px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D7E0FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+    border: 0.50px #858585 solid;
+}
+
+.ChangePhoto {
+    left: 15px;
+    top: 125px;
+    position: absolute;
+    color: #0029FF;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Image19 {
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    top: 10px;
+    position: absolute;
+}
+
+.Info {
+    width: 308px;
+    height: 573px;
+    left: 60px;
+    top: 315px;
+    position: absolute;
+}
+
+.FirstName,
+.LastName,
+.PhoneNumber,
+.Email,
+.SchoolName,
+.Major,
+.Password,
+.ConfirmPassword {
+    width: 308px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.FirstName input,
+.LastName input,
+.PhoneNumber input,
+.Email input,
+.SchoolName input,
+.Major input,
+.Password input,
+.ConfirmPassword input {
+    width: 308px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #DDDDDD;
+    border: 1px black solid;
+}
+
+.HeaderFooter {
+    width: 428px;
+    height: 976px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.Rectangle1 {
+    width: 428px;
+    height: 100px;
+    left: 0px;
+    top: 876px;
+    position: absolute;
+    background: #2C5C9A;
+}
+
+.Rectangle2 {
+    width: 428px;
+    height: 77px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #4A89BB;
+}
+
+.wifi {
+    width: 20px;
+    height: 20px;
+    left: 324px;
+    top: 10px;
+    position: absolute;
+}
+
+.cellular {
+    width: 20px;
+    height: 20px;
+    left: 351px;
+    top: 10px;
+    position: absolute;
+}
+
+.battery {
+    width: 20px;
+    height: 20px;
+    left: 378px;
+    top: 10px;
+    position: absolute;
+}
+
+.time {
+    left: 35px;
+    top: 14px;
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Back {
+    left: 45px;
+    top: 91px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    display: flex;
+}
+
+.SignUp {
+    left: 171px;
+    top: 89px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.dots {
+    width: 25px;
+    height: 25px;
+    left: 378px;
+    top: 93px;
+    position: absolute;
+}
+
+/* Add more CSS code if present in the original file */
