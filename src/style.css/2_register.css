@@ -56,25 +56,53 @@
 }
 
 .FirstName{
-    width: 308px; height: 55px; left: 0px; top: 0px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute
 }
 .LastName{
-    width: 308px; height: 55px; left: 0px; top: 74px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 74px; 
+    position: absolute
 }
 .PhoneNumber{
-    width: 308px; height: 55px; left: 0px; top: 148px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 148px; 
+    position: absolute
 }
 .Email{
-    width: 308px; height: 55px; left: 0px; top: 222px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 222px; 
+    position: absolute
 }
 .SchoolName{
-    width: 308px; height: 55px; left: 0px; top: 296px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 296px; 
+    position: absolute
 }
 .Major{
-    width: 308px; height: 55px; left: 0px; top: 370px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 370px; 
+    position: absolute
 }
 .Password{
-    width: 308px; height: 55px; left: 0px; top: 444px; position: absolute
+    width: 308px; 
+    height: 55px; 
+    left: 0px; 
+    top: 444px; 
+    position: absolute
 }
 .ConfirmPassword {
     width: 308px;

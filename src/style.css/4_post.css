@@ -134,3 +134,296 @@
 .reactionlike{
     margin: auto;
 }
+
+
+/* CSS for the given HTML structure */
+
+/* Line1 */
+.Line1 {
+    width: 393px;
+    height: 0px;
+    left: 17px;
+    top: 525px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 1px #707070 solid;
+  }
+  
+  /* Comment1 */
+  .Comment1 {
+    width: 367px;
+    height: 60px;
+    left: 26px;
+    top: 547px;
+    position: absolute;
+  }
+  
+  .Comment1 .pf1 {
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  .Comment1 .Rectangle12 {
+    width: 292px;
+    height: 60px;
+    left: 75px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 25px;
+    border: 0.50px black solid;
+  }
+  
+  .Comment1 .SereyVichea {
+    left: 104px;
+    top: 7px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Comment1 .com1 {
+    left: 104px;
+    top: 31px;
+    position: absolute;
+    color: black;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Comment1 .time1 {
+    left: 299px;
+    top: 7px;
+    position: absolute;
+    color: #303030;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Comment2 */
+  .Comment2 {
+    width: 367px;
+    height: 71px;
+    left: 30px;
+    top: 629px;
+    position: absolute;
+  }
+  
+  .Comment2 .pf2 {
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  .Comment2 .Rectangle12 {
+    width: 293px;
+    height: 71px;
+    left: 74px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 25px;
+    border: 0.50px black solid;
+  }
+  
+  .Comment2 .SongKheang {
+    left: 104px;
+    top: 7px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Comment2 .com2 {
+    left: 104px;
+    top: 29px;
+    position: absolute;
+    color: black;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Comment2 .time2 {
+    left: 299px;
+    top: 7px;
+    position: absolute;
+    color: #303030;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  
+/* CSS for the given HTML structure */
+
+.Write {
+    width: 428px;
+    height: 42px;
+    left: 0px;
+    top: 784px;
+    position: absolute;
+  }
+  
+  .Write .Rectangle13 {
+    width: 428px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #4A89BB;
+  }
+  
+  .Write .Vector {
+    width: 25px;
+    height: 20px;
+    left: 23px;
+    top: 11px;
+    position: absolute;
+  }
+  
+  .Write .Vector img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .Write .Rectangle14 {
+    width: 286px;
+    height: 35px;
+    left: 54px;
+    top: 4px;
+    position: absolute;
+    background: #B8D3DE;
+    border-radius: 10px;
+  }
+  
+  .Write .Rectangle15 {
+    width: 73px;
+    height: 35px;
+    left: 348px;
+    top: 4px;
+    position: absolute;
+    background: #B8D3DE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+  
+  .Write .Sent {
+    left: 365px;
+    top: 11px;
+    position: absolute;
+    color: black;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Write .WriteYourComment {
+    left: 68px;
+    top: 11px;
+    position: absolute;
+    color: black;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+/* CSS for the given HTML structure */
+
+.Post1 {
+    width: 356px;
+    height: 322.33px;
+    left: 30px;
+    top: 129px;
+    position: absolute;
+  }
+  
+  .Post1 .pf1 {
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  .Post1 .SengHak {
+    left: 82px;
+    top: 12px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Post1 .count1 {
+    left: 12px;
+    top: 307px;
+    position: absolute;
+    color: #707070;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Post1 .time {
+    left: 82px;
+    top: 37px;
+    position: absolute;
+    color: #707070;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Post1 .dots {
+    width: 20px;
+    height: 20px;
+    left: 171px;
+    top: 17px;
+    position: absolute;
+  }
+  
+  .Post1 .text1 {
+    width: 158px;
+    height: 129px;
+    left: 12px;
+    top: 89px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Post1 .pic1 {
+    width: 175px;
+    height: 233.33px;
+    left: 181px;
+    top: 89px;
+    position: absolute;
+    border: 0.50px black solid;
+  }
+    

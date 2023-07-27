@@ -131,3 +131,134 @@
     margin: auto;
 }
 
+/* CSS for the Event class */
+.Event {
+    width: 370px;
+    height: 291px;
+    left: 29px;
+    top: 345px;
+    position: absolute;
+  }
+  
+  .Event .count1 {
+    left: 80px;
+    top: 276px;
+    position: absolute;
+    color: #707070;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Event .text1 {
+    width: 366px;
+    height: 90px;
+    left: 2px;
+    top: 148px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Event .header1 {
+    width: 370px;
+    height: 78px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .Event .header1 span {
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Event .pf1 {
+    left: 128px;
+    top: 81px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Event .time {
+    left: 128px;
+    top: 105px;
+    position: absolute;
+    color: #707070;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Event .pf1 {
+    width: 75px;
+    height: 75px;
+    left: 38px;
+    top: 68px;
+    position: absolute;
+    background-color: #971B1B;
+    border-radius: 75px;
+  }
+  
+  .Event .Rectangle17 {
+    width: 102px;
+    height: 37px;
+    left: 213px;
+    top: 82px;
+    position: absolute;
+    background: #B8D3DE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 0.50px #858585 solid;
+  }
+  
+  .Event .Detail {
+    left: 242px;
+    top: 91px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .react {
+    width: 400px;
+  }
+  .react {
+    width: 400px;
+  }
+  
+
+  .SofitelWide2 {
+    width: 428px;
+    height: 241px;
+    left: 0px;
+    top: 94px;
+    position: absolute;
+  }
+  
+  .Line2 {
+    width: 428px;
+    height: 0px;
+    left: 0px;
+    top: 691px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+    
